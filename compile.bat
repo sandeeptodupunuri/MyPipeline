@@ -1,0 +1,1 @@
+echo "compiling the file : %date% : %time% "
